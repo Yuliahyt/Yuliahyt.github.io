@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently an undergraduate in [School of Data Science](http://www.sds.fudan.edu.cn) at Fudan University. 
-My research interests are mainly on Artificial Intelligence, Statistics and Algorithm.
+Welcome! I am currently an undergraduate in School of Electric Power at South China University of Technology. 
+My research interests are mainly on Load Forecast, Integrated Power System and Machine Learning.
